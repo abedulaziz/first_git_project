@@ -1,4 +1,4 @@
-var kosa = 'document.getElementById('id');
+var kosa = document.getElementById('id');
 
 window.onclick = function() {
   alert('haha')
