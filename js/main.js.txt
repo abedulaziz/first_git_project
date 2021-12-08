@@ -1,0 +1,2 @@
+var haha = 'testing',
+    test = 'test';
